@@ -5,4 +5,4 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,mysql,linux" alt="Skills" />
 </p>
 <h1>Sobre</h1>
-<p>discord @ g0xh</p>
+<p>discord @ g0xt</p>
