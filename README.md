@@ -4,6 +4,6 @@ Im Xer, a 16 year-old  self taught developer who enjoys exploring and developing
 
 I really like understanding how systems works under the wood.
 
-- 🐰 GoLang (Back-End engineering)
+- 🐰 Golang (Back-End engineering)
 - 🐍 Python (Automation)
 - 👨🏾‍💻 C/C++ (Low-level programming || Game Hacking)
